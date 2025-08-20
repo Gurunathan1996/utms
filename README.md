@@ -37,6 +37,6 @@ Includes **JWT + OAuth authentication**, **RBAC with caching**, **rate limiting*
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/your-repo/utms.git
+git clone https://github.com/Gurunathan1996/utms.git
 cd utms
 npm install
